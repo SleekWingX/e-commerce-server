@@ -1,5 +1,8 @@
 # E-Commerce Database
 
+![alt text](assets/image.png)
+![alt text](assets/image2.png)
+
 ## Description
 Created a back-end for an e-commerce website that stores data for products and prices.
 
